@@ -419,6 +419,5 @@
 # print(max(set2))
 # print(min(set2))
 
-# set1 = {'apple', 'banana', 'orange', 'cherry'}
-# print(len(set1))
-
+set1 = {'apple', 'banana', 'orange', 'cherry'}
+print(len(set1))
